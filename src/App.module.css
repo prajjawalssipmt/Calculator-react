@@ -1,0 +1,18 @@
+#calculator{
+  margin: 10px;
+  border: 2px solid rgba(0, 0, 0, 0.534);
+  border-radius: 5px;
+   width :300px;
+ }
+
+
+.calHead{
+  font-weight:700;
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+
+
+
+
